@@ -22,6 +22,7 @@ public class Calculator {
 	 * @param divider divisor de la operacion
 	 * @return parte entera de la division que no pudo ser dividida
 	 * @throws ArithmeticException
+	 *hola puto
 	 */
 	public int module(int dividend, int divider) throws ArithmeticException {
 		return dividend%divider;
