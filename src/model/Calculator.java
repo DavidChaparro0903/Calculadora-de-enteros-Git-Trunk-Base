@@ -42,6 +42,7 @@ public class Calculator {
 	 * @param numberOne numero uno a sumar
 	 * @param numberTwo numero dos a sumar
 	 * @return suma de dos numeros enteros
+	 * hola
 	 * */
 	public int sum(int numberOne,int numberTwo) {
 		return numberOne + numberTwo;
